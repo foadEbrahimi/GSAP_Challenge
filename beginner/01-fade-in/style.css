@@ -1,0 +1,12 @@
+body {
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  background-color: #202020;
+}
+.box {
+  width: 5rem;
+  opacity: 0;
+  height: 5rem;
+  background-color: red;
+}
